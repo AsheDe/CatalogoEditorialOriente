@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colornegro_500">#b10a0e11</color>
+    <color name="colornegro_100">#640a0e11</color>
+    <color name="colornegro_200">#7d0a0e11</color>
+    <color name="colornegro_300">#880a0e11</color>
+    <color name="colornegro_700">#d50a0e11</color>
+    <color name="colornegro_800">#e80a0e11</color>
+    <color name="colornegro_900">#0a0e11</color>
+    <color name="colornegro_50">#32000000</color>
+    <color name="colornegro_10">#15000000</color>
+    <color name="colorAccent">#da271e</color>
+    <color name="colorBlanco">#FFF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="colorVerde">#c446be06</color>
+    <color name="colorAzul">#e1061cdf</color>
+</resources>

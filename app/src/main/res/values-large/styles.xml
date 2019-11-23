@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Autores" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colornegro_900</item>
+        <item name="colorPrimaryDark">@color/colornegro_500</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colornegro_700</item>
+        <item name="android:textColorSecondary">@color/colorBlanco</item>
+        <item name="android:textColorPrimary">@color/colornegro_500</item>
+    </style>
+
+
+
+</resources>

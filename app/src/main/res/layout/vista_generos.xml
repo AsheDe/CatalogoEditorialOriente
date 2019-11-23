@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="wrap_content" android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    >
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Novela"
+        android:layout_margin="8dp"
+        android:id="@+id/gnovela"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Novela infantil"
+        android:layout_margin="8dp"
+        android:id="@+id/gnovelainf"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Novela infantojuvenil"
+        android:layout_margin="8dp"
+        android:id="@+id/gnovelainfjuv"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cuento"
+        android:layout_margin="8dp"
+        android:id="@+id/gcuento"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cuento infantil"
+        android:layout_margin="8dp"
+        android:id="@+id/gcuentoinf"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Poesía"
+        android:layout_margin="8dp"
+        android:id="@+id/gpoesia"
+        android:textAppearance="@android:style/TextAppearance.Large"
+
+        />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Poesía infantojuvenil"
+        android:layout_margin="8dp"
+        android:id="@+id/gpoesiainfjuv"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ensayo"
+        android:layout_margin="8dp"
+        android:id="@+id/gensayo"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ensayo histórico"
+        android:layout_margin="8dp"
+        android:id="@+id/gensayohist"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ensayo biográfico"
+        android:layout_margin="8dp"
+        android:id="@+id/gensayobio"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Testimonio histórico"
+        android:layout_margin="8dp"
+        android:id="@+id/gtestimhist"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Historieta"
+        android:layout_margin="8dp"
+        android:id="@+id/ghistorieta"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+ <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pasatiempos"
+        android:layout_margin="8dp"
+        android:id="@+id/gpasatiempos"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Divulgación"
+        android:layout_margin="8dp"
+        android:id="@+id/gdivulg"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Divulgación popular"
+        android:layout_margin="8dp"
+        android:id="@+id/gdivulgpop"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Divulgación científica"
+        android:layout_margin="8dp"
+        android:id="@+id/gdivulgcient"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Divulgación infantojuvenil"
+        android:layout_margin="8dp"
+        android:id="@+id/gdivulginfjuv"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Testimonio"
+        android:layout_margin="8dp"
+        android:id="@+id/gtestimonio"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Biografía"
+        android:layout_margin="8dp"
+        android:id="@+id/gbiografia"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Entrevista"
+        android:layout_margin="8dp"
+        android:id="@+id/gentrevista"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Diccionario"
+        android:layout_margin="8dp"
+        android:id="@+id/gdiccionario"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Artículo"
+        android:layout_margin="8dp"
+        android:id="@+id/garticulo"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Crónica"
+        android:layout_margin="8dp"
+        android:id="@+id/gcronica"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ensayo político"
+        android:layout_margin="8dp"
+        android:id="@+id/genspolitico"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Novela testimonio"
+        android:layout_margin="8dp"
+        android:id="@+id/gnovtestimonio"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        />
+</LinearLayout>
+</ScrollView>

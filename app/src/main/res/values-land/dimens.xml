@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <item type="fraction" name="factor_portadas">100%</item>
+    <bool name="horizontal">true</bool>
+    <dimen name="margen_titulo">48dp</dimen>
+</resources>

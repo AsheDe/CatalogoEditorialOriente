@@ -1,0 +1,62 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colornegro_900</item>
+        <item name="colorPrimaryDark">@color/colornegro_500</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colornegro_700</item>
+        <item name="android:textColorSecondary">@color/colorBlanco</item>
+        <item name="android:textColorPrimary">@color/colornegro_500</item>
+    </style>
+
+
+
+    <style name="AppTheme.Autores" parent="AppTheme" >
+        <item name="android:textColorSecondary">@color/colorBlanco</item>
+        <item name="android:textColorPrimary">@color/colorBlanco</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+
+    </style>
+
+    <style name="DetalleActividad" parent="AppTheme">
+        <item name="android:textColor">@color/colornegro_700</item>
+        <item name="android:itemBackground">@color/colorBlanco</item>
+    </style>
+<!--
+    <style name="Widget.Design.FloatingActionButton" parent="android:Widget">
+        <item name="backgroundTint">?attr/colorAccent</item>
+        <item name="elevation">6dp</item>
+        <item name="pressedTranslationZ">6dp</item>
+        <item name="rippleColor">?attr/colorControlHighlight</item>
+        <item name="borderWidth">0.5dp</item>
+
+    </style>
+-->
+    <style name="buscador" parent="AppTheme">
+        <item name="android:textColorSecondary">@color/colorBlanco</item>
+        <item name="android:textColorPrimary">#fdfff2</item>
+
+    </style>
+
+
+    <style name="checkbox" parent="AppTheme">
+        <item name="android:textColorSecondary">@color/colorAccent</item>
+    </style>
+
+    <style name="Autores" parent="AppTheme">
+    </style>
+
+    <style name="Counter" parent="TextAppearance.Design.Counter">
+        <item name="android:textColor">#42A5F5</item>
+    </style>
+
+    <style name="CounterOverFlow" parent="TextAppearance.Design.Counter.Overflow">
+        <item name="android:textColor">#aa43ff</item>
+    </style>
+
+</resources>

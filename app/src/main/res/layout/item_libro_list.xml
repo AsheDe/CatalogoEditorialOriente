@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    >
+
+    <ImageView
+        android:layout_width="@dimen/item_libro"
+        android:layout_height="@dimen/item_libro"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="16dp"
+        android:id="@+id/portada_libro_item"
+
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="1dp"
+        android:layout_marginTop="1dp"
+        android:transitionName="libro_portada"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/portada_libro_item"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:lines="2"
+        android:ellipsize="end"
+        android:textColor="@color/colornegro_700"
+        android:id="@+id/titulo_libro_item"
+        android:textStyle="bold"
+        android:text="Titulo"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/portada_libro_item"
+        android:layout_marginLeft="16dp"
+        android:layout_below="@+id/titulo_libro_item"
+        android:layout_marginTop="4dp"
+        android:textSize="16sp"
+        android:textColor="@color/colornegro_300"
+        android:textStyle="italic"
+        android:id="@+id/autor_libro_item"
+        android:text="autor"
+        android:layout_marginBottom="4dp"
+        android:transitionName="libro_titulo"
+        android:lines="1"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colornegro_50"
+      android:layout_alignParentBottom="true"
+
+        />
+
+
+</RelativeLayout>

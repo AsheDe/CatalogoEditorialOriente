@@ -1,0 +1,832 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="app_name">Editorial Oriente</string>
+    <string name="pressback">Pulse atrás nuevamente para salir</string>
+    <string name="title_activity_detalle__libro__actividad">Detalle_Libro_Actividad</string>
+    <string name="action_settings">Settings</string>
+    <string name="ind_autor">Pulse sobre la imagen del autor para conocer más.</string>
+
+    <string name="marelisproenzac">Guantánamo</string>
+    <string name="marelisproenzaf">1959</string>
+    <string name="marelisproenzab">Licenciada en Economía. Peluquera con más de veinte años de experiencia. Es una activa promotora de temas de belleza en la radio y en la televisión
+"\n""\n"Algunos de sus títulos: "\n" -El arte de la peluquería (Editorial Oriente, 2013)
+                                   "\n" -Recetas caseras de belleza (El Mar y la Montaña, 2016)
+</string>
+
+    <string name="antoniolc">Antilla, Holguín</string>
+    <string name="antoniolf">1944</string>
+    <string name="antoniolb">Licenciado en Derecho. Fundador de la Asociación de Jóvenes Rebeldes y de la UJC.  Oficial de la Contrainteligencia Militar.
+"\n""\n"Algunos de sus títulos: "\n" -Camilo en Antilla
+                                "\n" -Crisis de Octubre: Península del Ramón
+</string>
+
+    <string name="luisc">Contramaestre, Santiago de Cuba</string>
+    <string name="luisf">1967</string>
+    <string name="luisb"> Licenciado en Ciencias Sociales. Mayor de las Fuerzas Armadas Revolucionarias. Graduado en la especialidad de Político Militar de Tropas Generales.
+"\n""\n"Algunos de sus títulos: "\n" "\n" -  Fidelidad (Casa Editorial Verde Olivo, 2011).
+</string>
+
+    <string name="josec">Santiago de Cuba</string>
+    <string name="josef">1958 </string>
+    <string name="joseb">Doctor en Medicina por la Universidad de Ciencias Médicas de Santiago de Cuba.
+Especialista de Segundo Grado en Reumatología, máster en Ciencias Médicas, profesor asistente de la Universidad Médica de Santiago de Cuba. Investigador agregado y miembro fundador de la Sociedad Cubana de Reumatología.
+
+"\n""\n"Algunos de sus títulos: "\n" "\n" -  Un médico entre lagos y volcanes
+</string>
+
+    <string name="angelc">Guantánamo</string>
+    <string name="angelf">1939</string>
+    <string name="angelb">Ficha biográfica: Es especialista de Segundo Grado en Cirugía General, máster en Urgencias Médicas, Profesor Auxiliar y Consultante, e Investigador Auxiliar. Es jefe de la Sección de Cirugía de Hígado, Vías Biliares, Páncreas y Bazo. Miembro de los Consejos Científicos de su provincia y del Hospital General Docente Doctor Agostinho Neto, tiene numerosas publicaciones y trabajos premiados en eventos científicos.
+
+"\n""\n"Algunos de sus títulos: "\n" "\n" -   Páncreas. Técnicas quirúrgicas.
+                                     "\n" - Alcoholismo y pancreatitis (Editorial Oriente)
+</string>
+
+    <string name="albertoc">Río Seco, San Juan y Martínez</string>
+    <string name="albertof">1961</string>
+    <string name="albertob">Ficha biográfica: Poeta y escritor para niños
+
+"\n""\n"Algunos de sus títulos: "\n" - Salvar el alba
+                                     "\n" - La media vuelta, la vuelta entera
+                                     "\n" - El cielo es mucho más grande
+</string>
+
+    <string name="llodyc">Holguín</string>
+    <string name="llodyf">1961</string>
+    <string name="llodyb">Licenciado en Derecho por la Universidad de Oriente (2005); Máster en Estudios Cubanos y del Caribe (2007); Doctor en Ciencias Jurídicas (Universidad de Oriente, 2014) y Doctor en Derecho (Universidad Panamericana de México, 2016). Es Profesor Titular de Historia del Estado y el Derecho y decano de la Facultad de Derecho de la Universidad de Oriente; Juez Profesional No Permanente del Tribunal Popular Provincial de Santiago de Cuba; miembro de la UNEAC, de la Unión Nacional de Juristas de Cuba (UNJC), de la Unión de Historiadores de Cuba (UNHIC) y de la Cátedra de Estudios Históricos del Estado y el Derecho Leonardo Griñán Peralta. Ha sido Investigador Meritorio en el Instituto de Investigaciones Jurídicas de la Universidad Nacional Autónoma de México (UNAM), Investigador Agregado del Instituto de Derecho Penal Europeo e Internacional, e
+Investigador Invitado en la Universidad de Castilla"\n" - La Mancha, España.
+
+"\n""\n"Algunos de sus títulos: "\n" -
+</string>
+
+    <string name="carlosc">Granma</string>
+    <string name="carlosf">1950</string>
+    <string name="carlosb"> Es graduado del ISA en la especialidad de Teatrología y Dramaturgia, y realizó un doctorado en
+Español en la Universidad Internacional de la Florida (FIU por sus siglas en inglés). Tiene publicados numerosos libros en Cuba y en el extranjero. Actualmente reside en España.
+
+"\n""\n"Algunos de sus títulos: "\n" -
+</string>
+
+    <string name="pineauc">París, Francia</string>
+    <string name="pineauf">1956</string>
+    <string name="pineaub"> Sus padres son originarios de Guadalupe y trabajó allí como enfermera psiquiátrica durante veinte años. Actualmente reside en Marie"\n" - Galante, isla del archipiélago guadalupano. Reconocida como una de las creadoras caribeñas más representativas de la región, fue la primera mujer en obtener el Premio Carbet del Caribe.
+
+"\n""\n"Algunos de sus títulos: "\n" -  Una antigua maldición (Ediciones del Bronce, 1999)
+                                     "\n" -  Chair piment
+                                   "\n" -  L \'Espérance–Macadam
+</string>
+
+    <string name="suarezc">Manzanillo</string>
+    <string name="suarezf">1955</string>
+    <string name="suarezb">Narrador y poeta. Ha publicado poesía y cuento para adultos. Es miembro de la UNEAC, mereció la Distinción por la Cultura Nacional y el Diploma Nicolás Guillén entre otras condecoraciones.
+
+"\n""\n"Algunos de sus títulos: "\n" - Claro de luna
+                      "\n" - Las mentiras del rey Arturo
+                      "\n" - El capitán de las arenas
+</string>
+
+    <string name="eduardc">Baire</string>
+    <string name="eduardf">1973</string>
+    <string name="eduardb">Poeta, narrador y pintor. Miembro de la AHS, de la UNEAC y del Grupo Literario Café Bonaparte. Ganador del Premio Calendario de literatura para niños, 2002 y poesía, 2004.
+
+"\n""\n"Algunos de sus títulos: "\n" - Dé ángel y perverso
+                                     "\n" - El perdón del agua
+                                     "\n" - Lectura de Patmos
+</string>
+
+    <string name="aidac">Holguín</string>
+    <string name="aidaf">1958</string>
+    <string name="aidab">Narradora, crítica y traductora. Ha trabajado intensamente con talleres literarios, como investigadora y dirigió por más de diez años la Editorial Oriente. Su obra publicada, abarca cuatro libros de cuentos dos ensayos y dos novelas.
+
+"\n""\n"Algunos de sus títulos: "\n" -Fuera de Límite (cuentos, Ediciones Uvero, 1983)
+"\n" -Hay un gato en la ventana (cuentos, Letras Cubanas, 1984)
+"\n" -Ellas, de noche (cuentos, Letras Cubanas, 1989)
+"\n" -Rafael Soler, una mirada al hombre (ensayo, Oriente, 1995)
+"\n" -Espejismos (cuentos, Unión, 1998)
+"\n" -Las voces y los ecos (novela, Plaza Mayor, Puerto Rico, 2004 – Unión, Cuba, 2006)
+"\n" -José Soler Puig: el narrador (ensayo, Ediciones Santiago, 2006)
+"\n" -Ofelias (cuentos, Letras Cubanas, 2007). Premio Alejo Carpentier. Premio de la Crítica
+</string>
+
+    <string name="ramac">Manatí</string>
+    <string name="ramaf">1991</string>
+    <string name="ramab">Narrador y poeta. Egresado del Centro de Formación Literaria “Onelio Jorge Cardoso”. Ha obtenido los premios: Portus Patris de Narrativa, 2016; Segundo Premio en el XVII Concurso Nacional de Poesía Regino Pedroso; Tercer Premio en el Concurso Anual de Poesía “Soy el amor soy el verso”.
+
+"\n""\n"Algunos de sus títulos: "\n""\n" -
+</string>
+
+    <string name="felipec">La Habana</string>
+    <string name="felipef">1959 </string>
+    <string name="felipeb"> Licenciado en Educación en 1982. Tiene numerosos libros publicados. Ha obtenido el premio nacional de literatura infantil La Edad de Oro.
+
+"\n""\n"Algunos de sus títulos: "\n""\n" -  Un patio así
+                     "\n""\n" - Amigos del patio
+                    "\n" "\n" - Lunar
+</string>
+
+    <string name="dickc"> Aguacate, Madruga</string>
+    <string name="dickf">1985 </string>
+    <string name="dickb">Graduado de la Escuela de Instructores de Arte 13 de Marzo de la provincia La Habana en 2004. Ha organizado varias muestras personales de su obra como pintor y dibujante. Ha participado en exposiciones colectivas en Cuba.
+
+"\n""\n"Algunos de sus títulos:"\n" "\n" -
+</string>
+
+    <string name="marioc">Cabaiguán</string>
+    <string name="mariof">1955</string>
+    <string name="mariob">Investigador, historiador y narrador. Graduado de Historia en el Instituto Superior
+Pedagógico Enrique José Varona. Presidente de la filial municipal de la UNEAC en Cabaiguán.
+
+"\n""\n"Algunos de sus títulos: "\n""\n" - "\n" - "\n" - 
+</string>
+
+    <string name="esterc">Zaza del Medio</string>
+    <string name="esterf">1959</string>
+    <string name="esterb"> Investigadora, graduada de Licenciatura en Inglés en el Instituto Superior Pedagógico Silverio Blanco de Cabaiguán, ciudad donde reside. Especialista en Bibliotecología e Investigaciones de la biblioteca pública Beremundo Paz.
+
+"\n""\n"Algunos de sus títulos: "\n" -
+</string>
+
+    <string name="silviac">Cabaiguán</string>
+    <string name="silviaf">1953</string>
+    <string name="silviab">Ingeniera agrónoma e investigadora. Tiene publicaciones en las revistas Cubano, Sol y Son; Bohemia; Excelencias; Cuba Plus; Correo de Cuba y La Nueva Réplica, entre otras.
+
+"\n""\n"Algunos de sus títulos: "\n""\n" - Los pollos de mi cazuela (2008)
+                                     "\n" - Las comidas de Lezama Lima (2010)
+                                     "\n" - Dulces caseros (2011)
+</string>
+
+    <string name="ilianac">Matanzas</string>
+    <string name="ilianaf">1964</string>
+    <string name="ilianab">Máster en Comunicación Social.
+
+"\n""\n"Algunos de sus títulos: "\n""\n" - Sarabanda no perdona (Editora Política, 2014)
+                                    "\n" - La princesa cimarrona (Editorial Oriente, 2015)
+</string>
+
+    <string name="abreuc">Holguín</string>
+    <string name="abreuf">1951</string>
+    <string name="abreub">Graduado de Historia en el Instituto Pedagógico Superior de la Universidad de La Habana; miembro de la UNEAC, UNHIC, ADHILAC, la Academia de Historia de Cuba y miembro extranjero de la Academia de Historia de República Dominicana.
+"\n"Algunos de sus títulos: "\n" - Los resueltos a morir: relatos de la Guerra Grande (Cuba, 1868"\n" - 1878)
+                                    "\n" - La Guerra Grande: Dos puntos de vista
+                                    "\n" - Las fronteras de la guerra: Mujeres, soldados y regionalismo en el 68
+</string>
+
+    <string name="mariluc">La Habana</string>
+    <string name="mariluf">1966</string>
+    <string name="marilub">Licenciada en Historia. Máster en Ciencias Históricas. Miembro de la UNHIC, ADHILAC y la
+UNEAC
+
+"\n""\n"Algunos de sus títulos: "\n" - Guardianes del orden
+                                     "\n" - Voluntarios españoles en Cuba
+                                     "\n" - Voluntarios de Cuba española
+</string>
+
+    <string name="aliciac">Habana</string>
+    <string name="aliciaf">"\n" - </string>
+    <string name="aliciab">Musicóloga, historiadora del arte y profesora universitaria. Fundadora y coordinadora general del Festival Internacional Danzón Habana y del Festival Internacional Boleros de Oro. Coordinó el Simposio Cubadisco desde su creación hasta 2013.
+
+"\n""\n"Algunos de sus títulos: "\n" - El músico en Cuba (1986)
+                                     "\n" - Nosotros y el Bolero (2000)
+                                     "\n" - Dicccionario de mujeres notables en la música cubana (2011)
+</string>
+
+    <string name="toscac">Artemisa </string>
+    <string name="toscaf">1962"\n" -  La Habana, 2015</string>
+    <string name="toscab">Poeta. En 1987 obtuvo el Premio David de Poesía y mereció el Premio de la Crítica en 1992 y en 2006. Residía en Colombia desde 1994.
+
+"\n""\n"Algunos de sus títulos: "\n" - Todas las jaurías del rey (1987)
+                                     "\n" - Otros poemas (1992)
+                                     "\n" - Las derrotas (2006)
+</string>
+
+    <string name="juanc">Camagüey</string>
+    <string name="juanf">1954</string>
+    <string name="juanb">Arqueólogo, espeleólogo, guionista y escritor. Es vicepresidente de la sociedad espeleológica de Cuba.
+
+"\n""\n"Algunos de sus títulos: "\n" - La cerámica Baní (1993)
+                                    "\n" - Arte rupestre. Los petroglifos cubanos (1994)
+                                     "\n" - Los dinosaurios (2002)
+</string>
+
+    <string name="amintac">Santa Lucía, Guayas, Ecuador</string>
+    <string name="amintaf"> "\n" -  </string>
+    <string name="amintab">Es profesora universitaria, comunicadora social, magister en género y diplomática. Actualmente es embajadora del Ecuador en Nicaragua. Fue asambleísta nacional y participó en la redacción de la Constitución del Ecuador de 2008.
+
+"\n""\n"Algunos de sus títulos: "\n" - La mansión de los sueños
+                    "\n" - La otra piel
+                      "\n" - Mujeres divinas
+</string>
+
+    <string name="eldac">Camagüey</string>
+    <string name="eldaf">1952</string>
+    <string name="eldab">Profesora e investigadora. Académica Correspondiente Nacional de la Academia de la Historia de Cuba. Por su obra ha recibido diversos premios
+
+"\n""\n"Algunos de sus títulos: "\n" - De la primera embestida. Correspondencia de Ignacio Agramonte (noviembre 1868 "\n" -  enero 1871) (Editorial Ciencias Sociales, 2014)
+                                     "\n" - Nadie puede ser indiferente. Miradas a las guerras (1868"\n" - 1898) (Editorial Oriente, 2013)
+                                     "\n" - Del látigo y el jornal. Apuntes sobre la esclavitud en el Camagüey (Ediciones Ácana, 2013, 2015)
+</string>
+
+    <string name="olivac">Cuba</string>
+    <string name="olivaf"> "\n" -  </string>
+    <string name="olivab"> Es narrador, dramaturgo, poeta y músico, y ha escrito muchos otros libros para niños y jóvenes
+
+ "\n""\n"Algunos de sus títulos: "\n""\n" - Algo para Olga
+                                    "\n" - El león vegetaliano
+                                   "\n" - Sarabanda no perdona
+</string>
+
+    <string name="legrac">Baracoa</string>
+    <string name="legraf">1970 </string>
+    <string name="legrab">  Actualmente radica en Baire, Contramaestre. Es miembro de la Asociación
+Hermanos Saíz y del Grupo Literario Café Bonaparte. Ha obtenido diversos premios de poesía, entre ellos, premio nacional de poesía Medalla del Soneto Clásico, San Luis, Santiago de Cuba, 2003; premio de la UNEAC en el  concurso de poesía XIII Concurso Literario Viña Joven.
+
+"\n"Algunos de sus títulos:"\n"  - Oración del que traicionan (Ediciones Santiago, 2004)
+                                     "\n" - Rumor de higuera (Ediciones Santiago, 2000)
+</string>
+
+    <string name="eraclioc">Baracoa, Guantánamo</string>
+    <string name="eracliof">1962 </string>
+    <string name="eracliob">  Graduado de médico en el ISCM de Santiago de Cuba en 1986. Actualmente es especialista de primer y segundo grados en Ortopedia y Traumatología, y profesor asistente en el Hospital General Docente Dr. Ernesto Guevara de la Serna, de Las Tunas. Máster en Medicina Natural y Tradicional e investigador auxiliar.
+</string>
+
+    <string name="emerioc">Mayarí, Holguín</string>
+    <string name="emeriof"> 1966 </string>
+    <string name="emeriob">  Con sus obras ha alcanzado varios de los principales premios literarios que se otorgan en Cuba. Deben destacarse el Premio Iberoamericano de Cuento Julio Cortázar, el Luis Felipe Rodríguez de la UNEAC y el Alejo Carpentier de cuento.
+
+"\n""\n"Algunos de sus títulos:       "\n" - Suné y Rudel, los güijes guardianes (Editorial Oriente, 2011)
+                            "\n"   - Capul y Aruní visitan el mar (Editorial Oriente, 2015)
+</string>
+
+    <string name="jifleitesc"> La Habana </string>
+    <string name="jifleitesf">1953 </string>
+    <string name="jifleitesb">  Es licenciado en Periodismo. Fue redactor y editor de la revista Forestal Baracoa, y redactor de Cuba ForeingTrade. Guionista del programa Ventana al futuro y otros espacios históricos de la División de Programación Variada de la Televisión Cubana, así como guionista y director del programa televisivo De sol a sol.
+
+"\n""\n"Algunos de sus títulos: "\n" -  221 formas de preparar el arroz (Editorial Oriente, 2011)
+                                   "\n" - Maíz… el grano del sol (Editorial Oriente, 2015)
+
+</string>
+
+    <string name="eugenioc">España</string>
+    <string name="eugeniof">siglo XIX </string>
+    <string name="eugeniob">  Se radicó en Cuba durante el siglo XIX, y  se interesó por las cuestiones culinarias, además de moverse en diferentes temáticas, en especial las dedicadas a la mujer, la economía doméstica y la agricultura. Adaptó recetas turcas, españolas e inglesas a la manera de la cocina cubana y se ocupó especialmente por aquella comida que debían consumir los enfermos. Además captó las diferencias regionales en la alimentación cubana.
+
+"\n""\n"Algunos de sus títulos: "\n" -  Manual de práctica pedánea (1874)
+                                  "\n" - Manual de jardinería (1857)
+                                 "\n" - Catecismo de la agricultura cubana (1863)
+
+</string>
+
+    <string name="eulaliac">Villa Clara</string>
+    <string name="eulaliaf">1928</string>
+    <string name="eulaliab">  Investigadora e historiadora del cine cubano. Se incorpora a trabajar en el ICAIC en 1962, y en 1965 pasa a la Cinemateca de Cuba, donde desarrolla una intensa labor de investigación y rescate de la memoria fílmica cubana. Textos suyos han aparecido en antologías y selecciones de trabajos sobre nuestra cinematografía.
+
+"\n""\n"Algunos de sus títulos: "\n" "\n" - El cine cubano en la prensa nacional y extranjera (1977),
+                                 "\n" - Guía temática de la producción del ICAIC  (1983)
+                                "\n" - La tienda negra (El cine en Cuba 1897"\n" - 1990) (1997)
+
+</string>
+
+    <string name="nersysc">Pinar del Río</string>
+    <string name="nersysf">1935 </string>
+    <string name="nersysb">  Es una profesora, poetisa y narradora, que con sus libros ha embellecido la niñez de varias generaciones de cubanos. Sus obras resultan imprescindibles dentro del panorama literario de nuestro país.
+
+"\n"Algunos de sus títulos: "\n" -  Me gusta mandar recados (Editorial Oriente, 2014)
+                                "\n" - Bajo un sol rosado (Editorial Oriente, 2016)
+
+</string>
+
+    <string name="riquenesc">Jiguaní,Granma</string>
+    <string name="riquenesf">1982 </string>
+    <string name="riquenesb">  Ha escrito varios libros para niños y adultos. Obtuvo en 2015 el Premio Regino E. Boti. Es director de Claustrofobias promociones literarias.
+"\n""\n"Algunos de sus títulos: "\n""\n" -  Los cuernos de la luna
+                         "\n" - No apto para mayores
+                         "\n" - Las formas del amor
+                         "\n"  -Tienda de mascotas (Editorial Oriente, 2018)
+</string>
+    <string name="blasc"> Vertientes, Camagüey</string>
+    <string name="blasf">1944 </string>
+    <string name="blasb"> Filólogo, investigador y diplomático. Es graduado de la Facultad de Lenguas Extranjeras de la Universidad de La Habana. Cursó estudios de Derecho Internacional Público de la Universidad de Alicante y en el Instituto Superior de Relaciones Internacionales de Cuba.
+
+"\n""\n"Algunos de sus títulos: "\n""\n" -  Las culturas que encontró colón (Editorial Abya"\n" -  Yala, 1992)
+                      "\n" - Armenios en el Nuevo Mundo (Editorial Abya"\n" -  Yala, 1998)
+                       "\n" - Bibliografía del pintor ruso Vasily Vereschaguin en Cuba 1889"\n" - 1992
+
+</string>
+
+    <string name="manetc"></string>
+    <string name="manetf">1930 </string>
+    <string name="manetb">
+
+</string>
+
+    <string name="esquivelc">Elia</string>
+    <string name="esquivelf"> 1968</string>
+    <string name="esquivelb">Poeta, narrador y ensayista. Entre sus premios se encuentran los internacionales Iberoamericano de la Décima (2005 y 2010), Jara Carrillo (España, 2006), El Zorzal (Argentina, 2012) y Ciudad de Oviedo (España, 2012), además, los nacionales Emilio Ballagas (1995), Cuentos de amor (1998), Regino Botti (2000), Oriente (2000 y 2012), Manuel Cofiño (2001), La Gaceta de Cuba (2001), Hermanos Loynaz (2003) y José María Heredia (2004 y 2014). Su novela “La tumba del erizo” fue finalista en el año 2014 del premio Herralde, que convoca la Editorial Anagrama.
+ "\n""\n"Algunos de sus títulos: "\n" -Perros ladrándole a Dios (poesía, premio a la Mejor Opera Prima del año en Cuba)
+                                    "\n" -Tren de Oriente (poesía, México, 2001)
+                                   "\n"  -Los animales del cuerpo (cuento, 2001)
+</string>
+
+    <string name="anselmac">Las Tunas</string>
+    <string name="anselmaf">1967 </string>
+    <string name="anselmab">Graduada de médico en el Instituto Superior de Ciencias Médicas de Camagüey en 1992. Especialista de segundo grado en Medicina Interna. Máster en Urgencias Médicas.
+
+"\n""\n"Algunos de sus títulos:
+                                  "\n"  - ¿Consumiendo el futuro? (Centro Nacional de Derecho de Autor, 2004)
+                                  "\n"  -Porque creo en Alcohólicos Anónimos (Editorial A and A, 2005)
+                                   "\n" -Drogas y... (Editorial El Mar y la Montaña, 2008)
+</string>
+
+    <string name="viderac">Guantánamo</string>
+    <string name="videraf">1959 </string>
+    <string name="viderab">Doctora en Medicina. Doctora en Ciencias de la Salud. Especialista de II Grado en Fisiología y Profesora Titular de Fisiología.
+"\n"Algunos de sus títulos:
+                                    "\n"-  Hipertensión arterial, la asesina silenciosa (Editorial Oriente)
+</string>
+
+    <string name="pavonc">Báguanos, Holguín</string>
+    <string name="pavonf">1959 </string>
+    <string name="pavonb">: Licenciado en Medios de Comunicación por el ISA y Máster en Desarrollo Cultural Comunitario por la Universidad de Las Tunas. Investigador, promotor cultural y realizador radial. Ha ejercido la docencia en diversos niveles de enseñanza, y desde el año 2005 se desempeña como investigador en la Empresa Comercializadora de la Música Faustino Oramas en la Ciudad Cubana de los Parques. Por su labor en la cultura, se ha hecho acreedor de numerosos premios y reconocimientos: Félix B. Caignet, Regino Botti, Premio Memoria Viva de Romerías de Mayo, Premio Memoria del Centro Pablo de la Torriente Brau, Premio de la Ciudad de Holguín, las distinciones Beby Urbino y la Hijo Ilustre, y el Premio Corazón de Oro del Festival Arañando la Nostalgia, entre otros
+"\n"Algunos de sus títulos:"\n" -La música en Holguín (Ediciones Holguín)
+                                   "\n"  -El Guayabero, rey del doble sentido (Editorial Oriente)
+                                   "\n"  -Orquesta Avilés, centenaria y mambisa (Ediciones Holguín)
+</string>
+
+    <string name="freic">Belo Horizonte, Brasil</string>
+    <string name="freif">1944 </string>
+    <string name="freib">Estudió periodismo, antropología, filosofía y teología. Es investigador, ensayista, periodista y poeta. Su obra consta de más de cincuenta títulos.
+"\n""\n"Algunos de sus títulos: "\n"-El acuario negro (1986)
+                                  "\n"   -Fidel y la religión (1985)
+                                   "\n"  -La obra del artista (1998)
+</string>
+
+    <string name="michec">La Habana</string>
+    <string name="michef"> 1956</string>
+    <string name="micheb">Especialista de la Cinemateca de Cuba. Ha impartido conferencias sobre el cartel cubano y curado exposiciones en Biarritz (1999), Estambul (2004), Nueva York (2001), y regularmente en galerías de La Habana. Integra el proyecto alternativo CartelON.
+
+"\n"Algunos de sus títulos en coautoría: "\n"-Coordenadas del cine cubano I y II (Editorial Oriente, 2001 y 2005, respectivamente)
+                                            "\n"      -El cartel de cine cubano. The Cuban Film Poster (2004)
+                                           "\n"       -Imágenes de cine: Eduardo Muñoz Bachs (2007)
+</string>
+
+    <string name="naitoc">La Habana</string>
+    <string name="naitof">1948 </string>
+    <string name="naitob">Crítico e investigador cinematográfico. Especialista de la Cinemateca de Cuba. Es colaborador desde 1991 del programa semanal Cine Paraíso de la emisora CMBF.
+
+"\n"Algunos de sus títulos como compilador: "\n"-Coordenadas del cine cubano 2  (Editorial Oriente, 2005)
+                                                              "\n"   -Coordenadas del cine cubano 3   (Editorial Oriente, 2014)
+                                                              "\n"   -A cuarenta años... (Cinemateca de Cuba-Ediciones ICAIC)
+</string>
+
+    <string name="marquetic"> - </string>
+    <string name="marquetif"> - </string>
+    <string name="marquetib">Es licenciada en Filología por la Universidad de La Habana. Investigadora musical por vocación, creó y lleva desde 2014 su blog Desmemoriados. Historia de la música cubana. Una selección de textos del sitio fue publicada en 2016 por La Iguana Ciega de Barranquilla, Colombia.
+Algunos de sus títulos: -
+</string>
+
+    <string name="borrotoc">Morón</string>
+    <string name="borrotof"> 1947</string>
+    <string name="borrotob">Diseñador gráfico, ilustrador, cancatunsta y narrador. Graduado en la Academia lnteramericana de Dibujo Comercial, Artístico y Publicitario. Licenciado en Español y Literatura.
+ Algunos de sus títulos: -
+</string>
+
+    <string name="mondeloc">Santiago de Cuba</string>
+    <string name="mondelof">1970 </string>
+    <string name="mondelob">Licenciado en Derecho (1993) y Doctor en Ciencias Jurídicas (2003), ambos por la Universidad de Oriente. Trabaja como profesor e investigador en la Facultad de Derecho de la propia Universidad. Ha publicado artículos sobre temas de su campo de investigación en revistas de Cuba y otros países, así como dictado conferencias en universidades cubanas y extranjeras.
+
+Algunos de sus títulos:
+
+</string>
+
+    <string name="emilioc">Santiago de Cuba</string>
+    <string name="emiliof">1954 </string>
+    <string name="emiliob">Diseñador, caricaturista, pintor y realizador santiaguero graduado en la Academia de Artes Plásticas "José Joaquín Tejada Revilla". En su trayectoria, acumula más de 25 exposiciones personales, participación en unas 30 colectivas y presencia en alrededor de 20 salones internacionales. Es realizador de cartones animados; tiene participaciones en salones provinciales y nacionales de humor gráfico y diseño, con premios en esos ámbitos y una mención internacional.
+"\n"Algunos de sus títulos:
+
+</string>
+
+    <string name="mayrarosac"> - </string>
+    <string name="mayrarosaf"> - </string>
+    <string name="mayrarosab"> Licenciada en Periodismo por la Universidad de La Habana. Durante quince años trabajó en la revista Revolución y Cultura, del Ministerio de Cultura, atendiendo la esfera de la música, labor que le permitió profundizar en esta manifestación artística. Desde 1991 se estableció en México DF, y durante años trabajó como editora, correctora de estilo, redactora, fotógrafa o reportera de diversas revistas, así como asesora en varias publicaciones y agencias de prensa.
+
+"\n"Algunos de sus títulos:"\n" -Cubanos en la música (Letras Cubanas, 1993 y Unión, 2016)
+                               "\n"      - Cuba en voz y canto de mujer (EE.UU., 2015).
+</string>
+
+    <string name="lemusc"> - </string>
+    <string name="lemusf"> - </string>
+    <string name="lemusb"> Poeta, actor y narrador multipremiado.
+
+"\n"Algunos de sus títulos:
+    "\n"                                - El sombrero de mi abuelo (2005)
+    "\n"                                -Michiringolo (2010)
+    "\n"                               -Adivinaja (2012)
+
+</string>
+
+    <string name="herasc">La Habana</string>
+    <string name="herasf">1940 </string>
+    <string name="herasb"> Narrador, periodista, crítico literario y de danza. En 2001 recibió el Premio Nacional de Edición; en 2007 el galardón Maestro de Juventudes de la Asociación Hermanos Saíz, y la Distinción Félix Elmuza de la Upec, y en 2014 el Premio Nacional de Literatura. Es fundador y director del Centro de Formación Literaria Onelio Jorge Cardoso.
+
+"\n""\n"Algunos de sus títulos:
+       "\n"                              - La guerra tuvo seis nombres (1970)
+       "\n"                             -Los pasos en la hierba
+       "\n"                             -Cuestión de principio (1985)
+</string>
+
+    <string name="tmeloc">Santiago de Cuba</string>
+    <string name="tmelof"> </string>
+    <string name="tmelob">Poetisa y promotora cultural, ganadora entre otros premios del integral La Rosa Blanca.
+
+"\n""\n"Algunos de sus títulos:
+"\n"                                     -La sombra protectora
+"\n"                                     -Soy el amor, soy el verso (compiladora)
+</string>
+
+
+    <string name="pjgutierrec">La Habana</string>
+    <string name="pjgutierref"> 1950</string>
+    <string name="pjgutierreb">Licenciado en Periodismo por la Universidad de La Habana. Tiene una extensa obra literaria conocida en el panorama internacional desde finales de los años noventa del pasado siglo.
+
+"\n""\n"Algunos de sus títulos:"\n" -Anclado en tierra de nadie (1998)
+        "\n"                             -Nada que hacer (1998)
+        "\n"                             -Sabor a mí  (1998)
+</string>
+
+    <string name="olgapc">Camagüey</string>
+    <string name="olgapf"> 1944</string>
+    <string name="olgapb">Doctora en Ciencias Históricas, Historiadora de la Ciudad de Santiago de Cuba y Miembro de Número de la Academia de la Historia de Cuba. Premio Nacional de Historia (2005), Premio Nacional de Investigación (2006) y Premio Nacional de Ciencias Sociales y Humanísticas (2010).
+
+"\n""\n"Algunos de sus títulos:
+                             "\n"        - Una derrota británica en Cuba
+                             "\n"        - José Antonio Saco, eternamente polémico (Editorial Oriente, 2004)
+                             "\n"        - Cuba. Constitución y liberalismo (Editorial Oriente, 2008)
+</string>
+
+
+    <string name="muletc">Holguín</string>
+    <string name="muletf"> 1955</string>
+    <string name="muletb">Médico, escritor, Doctor en Ciencias Médicas y Profesor Titular de Propedéutica Clínica y Medicina Interna de la Universidad de Ciencias Médicas de Holguín. Especialista de II Grado en Gastroenterología y de Medicina Interna del Hospital Universitario V. I. Lenin. Máster en Medicina Natural y Tradicional y en Enfermedades infecciosas.
+
+"\n""\n"Algunos de sus títulos:"\n" -Secretos de Juan Candela (Ediciones Holguín, 1993),
+                                "\n"     -Digitopuntura (Ediciones Holguín, 1994)
+                                "\n"     -Cartas del I Ching, (Ediciones Holguín, 1995, Premio de la Ciudad en cuento)
+</string>
+
+    <string name="rhodelinc">Santiago de Cuba</string>
+    <string name="rhodelinf">1964 </string>
+    <string name="rhodelinb">Doctor en Ciencias Médicas. Máster en Bioética. Profesor Titular.
+"\n"Algunos de sus títulos: "\n"
+                              -Máximo Zertucha, médico de Antonio Maceo, Editorial Verde Olivo
+
+</string>
+
+
+    <string name="madlumc">Santiago de Cuba</string>
+    <string name="madlumf">1941 </string>
+    <string name="madlumb">Licenciada en Educación. Se ha desempeñado como maestra, museóloga e investigadora.
+
+"\n"Algunos de sus títulos:
+"\n"                                   - Parque Abel Santamaría (Editorial Oriente)
+</string>
+
+    <string name="alsanchezc">La Habana</string>
+    <string name="alsanchezf"> 1973</string>
+    <string name="alsanchezb">Licenciado en comunicación social por la Universidad de La Habana. Periodista, poeta y narrador. Es graduado del Centro de Formación Literaria Onelio Jorge Cardoso en el año 2007.
+
+"\n" "\n" Algunos de sus títulos:
+"\n"                                    -El otro lado del espejo (Gente Nueva, 2017)
+"\n"                                    -El escudo de Valnúss (Editorial de la Mujer, 2015)
+"\n"                                    -Las guerreras de la luz (Editorial de la Mujer, 2011)
+</string>
+
+    <string name="alfonsoc">La Habana</string>
+    <string name="alfonsof"> 1945</string>
+    <string name="alfonsob">Es biólogo, y ha participado en numerosas expediciones por tierra y mar, de donde han surgido los temas de sus libros.
+
+ "\n"Algunos de sus títulos:"\n"
+                           "\n"        -El acuario marino
+                           "\n"        -Cuba natural,
+                           "\n"       -Mi mar y yo
+</string>
+
+    <string name="mildrec"></string>
+    <string name="mildref"> </string>
+    <string name="mildreb">Recibió el Premio Casa de las Américas y Premio de la Crítica Literaria 2015. Ha recibido, entro otros, los premios: Eliseo Diego, Pinos Nuevos, Fayad Jamís, Abril (en tres ocasiones), Sed de belleza, La Rosa Blanca, Regino Boti, Hermanos Loynaz, La Edad de Oro, La puerta de papel, y Jara Carrillo y Sin Fronteras (Bilbao), ambos en España. Gran parte de su obra ha sido publicada en Colombia, España y Canadá.
+
+"\n" Algunos de sus títulos:
+                                   "\n" -El niño congelado (2015)
+                                   "\n" -Es raro ser niña
+                                 "\n" -Una niña estadísticamente feliz
+</string>
+
+
+    <string name="mantonietac">Holguín</string>
+    <string name="mantonietaf">1950 </string>
+    <string name="mantonietab">Psicóloga cubana y profesora de la Universidad de Ciencias Médicas de Holguín. En el contexto internacional también prestigia su quehacer científico e investigativo con publicaciones en formato digital e impreso. Ha publicado varios títulos en la Editorial Oriente.
+
+"\n"Algunos de sus títulos:
+"\n"                                  -Padres, niños y conductas (2007)
+"\n"                                 -¿Qué hacer con mi vida? (2010)
+"\n"                                 -El niño asmático y su familia ante el asma bronquial (2012)
+</string>
+
+    <string name="trabac"></string>
+    <string name="trabaf">1956 </string>
+    <string name="trabab">Ingeniera tecnóloga en Alimentación Social. Chef de cocina y profesora de cocina profesional. Tiene diferentes publicaciones como autora y coautora.
+
+"\n"Algunos de sus títulos:
+                                   "\n"-La cocina en el Caribe insular
+                                   "\n"-Cocina cubana y coctelería
+                                   "\n"-Especias cubanas: una alternativa para el turismo
+</string>
+
+    <string name="rubenc">Holguín</string>
+    <string name="rubenf">1969 </string>
+    <string name="rubenb">Narrador y periodista. Ha obtenido, entre otros, los premios Oriente, La Edad de Oro, Ismaelillo, Abril, La Rosa Blanca y de la Crítica Literaria.
+
+
+"\n"Algunos de sus títulos:
+    "\n"                              - Mimundo (Editorial Oriente, 2005)
+        "\n"                          -Paca Chacón y la educación moderna (Editorial Oriente, 2007)
+            "\n"                      -El garrancho de Garabulla (Editorial Oriente, 2009)
+</string>
+
+    <string name="mrojasc">Santiago de Cuba</string>
+    <string name="mrojasf">1931 </string>
+    <string name="mrojasb">Escritora y periodista cubana de larga experiencia. Premio Nacional de Periodismo José Martí del año 1997. Ganadora del Premio Alejo Carpentier de novela 2006.
+
+"\n"Algunos de sus títulos:
+    "\n"                              - El columpio de Rey Spencer (1993)
+        "\n"                           -Santa Lujuria (1998)
+            "\n"                       -El harén de Oviedo  (2003)
+</string>
+
+
+    <string name="scushionc">Leyton, Inglaterra</string>
+    <string name="scushionf">1950 </string>
+    <string name="scushionb">Doctor en Ciencias Históricas. Asociado del Institute of the Americas, University College, Londres. Fue profesor titular de la Universidad Metropolitana de Londres.
+
+"\n"Algunos de sus títulos: -
+</string>
+
+    <string name="mterryc">La Habana</string>
+    <string name="mterryf"> 1963</string>
+    <string name="mterryb">Narrador y periodista. Es licenciado en Periodismo por la Universidad de La Habana y trabaja actualmente como redactor jefe de la página cultural del periódico El Artemiseño. Miembro de la Upec y de la Uneac.
+"\n"Algunos de sus títulos:
+ "\n"                                    - Ángeles y cenizas (Unicornio)
+                                    "\n" - Laberinto de lobos (Unicornio)
+                                   "\n" -Los duros pierden como Humphrey Bogart (Unicornio)
+</string>
+
+    <string name="lherreroc">Holguín</string>
+    <string name="lherrerof">1952 </string>
+    <string name="lherrerob">Varios textos suyos han sido traducidos al francés, inglés e italiano. Ostenta la distinción Por la Cultura Nacional. Es escritora de poesía y narrativa y ha obtenido importantes premios en ambos géneros destacándose el nacional de Poesía Julián del Casal, el Especial de Poesía Bicentenario de José María Heredia en 2003, y el Oriente de Novela José Soler Puig en 2005.
+
+ "\n"Algunos de sus títulos:
+                             "\n"       -En la orilla derecha del Nilo
+              "\n"   - Fijeza del Amor (Ediciones Holguín, 2002)
+               "\n"                     -Los días del verano (2003)
+
+</string>
+
+    <string name="rhzellc">La Habana</string>
+    <string name="rhzellf"> 1910 - 1970</string>
+    <string name="rhzellb">Periodista, narradora, poetisa y traductora. En 1946 creó la sección “El menú de la semana”, la que firmaba como Adriana Loredo, en la revista Bohemia. Varios poemas suyos fueron seleccionados por Juan
+Ramón Jiménez para su colección La poesía cubana en 1936.
+
+
+"\n" Algunos de sus títulos:
+"\n"                                  -Cunda y otros poemas (1960)
+</string>
+
+    <string name="jbquintanac">La Habana</string>
+    <string name="jbquintanaf"> 1950</string>
+    <string name="jbquintanab">Artista visual. Máster en Educación por el Arte. Fue decano de la Facultad de Artes Visuales, de la Universidad de las Artes-ISA.
+
+"\n"Algunos de sus títulos:
+ "\n"                                    - Todo en tres líneas (Gente Nueva, 2013)
+"\n"                                      -Cuaderno de Lucrecia (Ediciones Samandar, 2015)
+</string>
+
+    <string name="mgmarreroc">Holguín</string>
+    <string name="mgmarrerof">1971 </string>
+    <string name="mgmarrerob">Psicoterapeuta rehabilitadora. Licenciada en Rehabilitación Social y Ocupacional, Máster en Medicina Bioenergética y Natural y en Reiki.
+"\n"Algunos de sus títulos: "\n"-Yoga Manual Práctico (Ediciones Holguín, 2006 y Editorial Oriente, 2010)
+    "\n"                                 -Hatha Yoga para la ansiedad y las adicciones (Editorial Oriente, 2014)
+    "\n"                                 -Consejos de una psicoterapeuta (Ediciones Holguín, 2016)
+</string>
+
+    <string name="aaugustc">Canadá</string>
+    <string name="aaugustf"> </string>
+    <string name="aaugustb">Periodista y conferencista canadiense.
+ "\n"Algunos de sus títulos:  "\n" - Democracy in Cuba and the 1997-98 eleccions (Editorial José Martí, 1999)
+                               "\n"   -Cuba y sus vecinos, democracia en movimiento (Editorial Ciencias Sociales, 2014)
+</string>
+
+
+    <string name="spachecoc">Cabaiguán</string>
+    <string name="spachecof"> 1956 </string>
+    <string name="spachecob">Cuentos suyos han aparecido en varias revistas y antologías tanto en cuba como en el extranjero. Sus obras han sido reeditadas en Cuba, España, Colombia, Puerto rico y los Estados Unidos.
+"\n"Algunos de sus títulos:"\n" -Oficio de hormigas
+                            "\n"         -Un pie en lo alto y otras encerronas
+                           "\n"         -Mañana es Navidad
+</string>
+
+    <string name="restradac">Bayamo</string>
+    <string name="restradaf"> </string>
+    <string name="restradab">Egresó de la Escuela de Periodismo de la Universidad de La Habana en 1976. Ese Año comenzó a trabajar en la emisora Radio Habana Cuba, donde se mantuvo más de tres décadas en la realización de programas culturales. Como resultado de tal labor recibiría cincuenta premios y reconocimientos entre ellos la Distinción por la Cultura Nacional y el Micrófono de la Radio Cubana
+"\n"Algunos de sus títulos: "\n"-Rita Montaner (Letras Cubanas 1993)
+                             "\n"        -Yo seré la tentación: María de los Ángeles Santana (Plaza Mayor, Puerto Rico 2003 y Letras cubanas 2013 y 2016)
+                            "\n"          -Deja que te cuente de Bola (Ediciones Unión 2005 y Editorial Oriente 2012)
+</string>
+
+    <string name="afonsecac">Sancti Spiritus</string>
+    <string name="afonsecaf">1986</string>
+    <string name="afonsecab">Narrador y poeta. Miembro de la Asociación Hermanos Saíz. Graduado del XIII Curso de Técnicas Narrativas Onelio Jorge Cardoso.
+
+"\n"Algunos de sus títulos:
+    "\n"                                 -…aquí Dios no está (Ediciones Luminaria, 2010)
+ "\n"                                    -El circo invisible (Editorial Oriente, 2014)
+     "\n"                                -Hierbas (Ediciones La Luz, 2016)
+</string>
+
+    <string name="mruizc">La Habana </string>
+    <string name="mruizf"> 1945</string>
+    <string name="mruizb">Graduada como ingeniera eléctrica en la especialidad de Automática y Telemecánica en el Instituto Energético de Moscú (MEI) en 1969. Es máster en Ciencias Técnicas y en Economía Social, y en Dirección de Entidades sin Ánimo de Lucro. Ha realizado diplomados y postgrados en las especialidades de marketing.
+
+"\n"Algunos de sus títulos:"\n" -¡… y es bello vivir! (2005)
+                           "\n" -Historias de la Abuelita Ciencia (2010).
+
+</string>
+
+    <string name="dayronserpac">Santiago de Cuba </string>
+    <string name="dayronserpaf"> 1981</string>
+    <string name="dayronserpab">-</string>
+
+    <string name="linguisticac">Linguistica Aplicada </string>
+    <string name="linguisticaf"> -</string>
+    <string name="linguisticab">-</string>
+
+    <string name="lorenzoc">Linguistica Aplicada </string>
+    <string name="lorenzof"> -</string>
+    <string name="lorenzob">-</string>
+
+    <string name="zeilarobertc">- </string>
+    <string name="zeilarobertf"> -</string>
+    <string name="zeilarobertb">-</string>
+
+//////////////////////////////////////////////////////////////////////
+    <string name="cesquivelc">Elia </string>
+    <string name="cesquivelf"> 1968</string>
+    <string name="cesquivelb">Poeta, narrador y ensayista. Entre sus premios se encuentran los internacionales Iberoamericano de la Décima (2005 y 2010), Jara Carrillo (España, 2006), El Zorzal (Argentina, 2012) y Ciudad de Oviedo (España, 2012), además, los nacionales Emilio Ballagas (1995), Cuentos de amor (1998), Regino Botti (2000), Oriente (2000 y 2012), Manuel Cofiño (2001), La Gaceta de Cuba (2001), Hermanos Loynaz (2003) y José María Heredia (2004 y 2014). Su novela “La tumba del erizo” fue finalista en el año 2014 del premio Herralde, que convoca la Editorial Anagrama.
+ "\n"Algunos de sus títulos: "\n"-Perros ladrándole a Dios (poesía, premio a la Mejor Opera Prima del año en Cuba)
+                                   "\n"  -Tren de Oriente (poesía, México, 2001)
+                                    "\n" -Los animales del cuerpo (cuento, 2001)
+</string>
+
+    <string name="apulsanc">Las Tunas </string>
+    <string name="apulsanf"> 1967</string>
+    <string name="apulsanb">Graduado de médico en el Instituto Superior de Ciencias Médicas de Camagüey en 1992. Especialista de segundo grado en Medicina Interna. Máster en Urgencias Médicas.
+
+"\n"Algunos de sus títulos:"\n"
+                           "\n"         - ¿Consumiendo el futuro? (Centro Nacional de Derecho de Autor, 2004)
+                           "\n"         -Porque creo en Alcohólicos Anónimos (Editorial AA, 2005)
+                           "\n"         -Drogas y... (Editorial El Mar y la Montaña, 2008)
+</string>
+
+
+    <string name="wacurbeloc">Guantanamo </string>
+    <string name="wacurbelof"> 1959</string>
+    <string name="wacurbelob">Doctora en Medicina. Doctora en Ciencias de la Salud. Especialista de II Grado en Fisiología y Profesora Titular de Fisiología.
+"\n"Algunos de sus títulos:
+                               "\n"     -  Hipertensión arterial, la asesina silenciosa (Editorial Oriente)
+
+</string>
+
+    <string name="zenobioc">Báguanos, Holguín </string>
+    <string name="zenobiof"> 1959</string>
+    <string name="zenobiob">Licenciado en Medios de Comunicación por el ISA y Máster en Desarrollo Cultural Comunitario por la Universidad de Las Tunas. Investigador, promotor cultural y realizador radial. Ha ejercido la docencia en diversos niveles de enseñanza, y desde el año 2005 se desempeña como investigador en la Empresa Comercializadora de la Música Faustino Oramas en la Ciudad Cubana de los Parques. Por su labor en la cultura, se ha hecho acreedor de numerosos premios y reconocimientos: Félix B. Caignet, Regino Botti, Premio Memoria Viva de Romerías de Mayo, Premio Memoria del Centro Pablo de la Torriente Brau, Premio de la Ciudad de Holguín, las distinciones Beby Urbino y la Hijo Ilustre, y el Premio Corazón de Oro del Festival Arañando la Nostalgia, entre otros
+"\n"Algunos de sus títulos: "\n"-La música en Holguín (Ediciones Holguín)
+                              "\n"       -El Guayabero, rey del doble sentido (Editorial Oriente)
+"\n"                                      -Orquesta Avilés, centenaria y mambisa (Ediciones Holguín)
+</string>
+
+    <string name="freibetoc">Belo Horizonte, Brasil </string>
+    <string name="freibetof"> 1944</string>
+    <string name="freibetob">Estudió periodismo, antropología, filosofía y teología. Es investigador, ensayista, periodista y poeta. Su obra consta de más de cincuenta títulos.
+"\n"Algunos de sus títulos: "\n"-El acuario negro (1986)
+                                 "\n"    -Fidel y la religión (1985)
+                                 "\n"    -La obra del artista (1998)
+
+</string>
+
+    <string name="svegac">La Habana </string>
+    <string name="svegaf"> 1956</string>
+    <string name="svegab">Especialista de la Cinemateca de Cuba. Ha impartido conferencias sobre el cartel cubano y curado exposiciones en Biarritz (1999), Estambul (2004), Nueva York (2001), y regularmente en galerías de La Habana. Integra el proyecto alternativo CartelON.
+
+"\n"Algunos de sus títulos en coautoría:"\n" -Coordenadas del cine cubano I y II (Editorial Oriente, 2001 y 2005, respectivamente)
+                                            "\n"      -El cartel de cine cubano. The Cuban Film Poster (2004)
+                                             "\n"     -Imágenes de cine: Eduardo Muñoz Bachs (2007)
+
+
+</string>
+
+    <string name="mnaitoc">La Habana </string>
+    <string name="mnaitof"> 1948</string>
+    <string name="mnaitob">Crítico e investigador cinematográfico. Especialista de la Cinemateca de Cuba. Es colaborador desde 1991 del programa semanal Cine Paraíso de la emisora CMBF.
+
+"\n"Algunos de sus títulos como compilador:"\n" -Coordenadas del cine cubano 2  (Editorial Oriente, 2005)
+                                                              "\n"   -Coordenadas del cine cubano 3   (Editorial Oriente, 2014)
+                                                               "\n"  -A cuarenta años... (Cinemateca de Cuba-Ediciones ICAIC)
+
+
+</string>
+
+    <string name="rmarquetic">- </string>
+    <string name="rmarquetif"> -</string>
+    <string name="rmarquetib">Es licenciada en Filología por la Universidad de La Habana. Investigadora musical por vocación, creó y lleva desde 2014 su blog Desmemoriados. Historia de la música cubana. Una selección de textos del sitio fue publicada en 2016 por La Iguana Ciega de Barranquilla, Colombia.
+
+</string>
+
+    <string name="rborrotoc">Morón </string>
+    <string name="rborrotof"> 1947</string>
+    <string name="rborrotob">Diseñador gráfico, ilustrador, cancatunsta y narrador. Graduado en la Academia lnteramericana de Dibujo Comercial, Artístico y Publicitario. Licenciado en Español y Literatura.
+</string>
+
+    <string name="jwmondeloc">Santiago de Cuba </string>
+    <string name="jwmondelof"> 1970</string>
+    <string name="jwmondelob">Licenciado en Derecho (1993) y Doctor en Ciencias Jurídicas (2003), ambos por la Universidad de Oriente. Trabaja como profesor e investigador en la Facultad de Derecho de la propia Universidad. Ha publicado artículos sobre temas de su campo de investigación en revistas de Cuba y otros países, así como dictado conferencias en universidades cubanas y extranjeras.</string>
+
+    <string name="chichoc">Santiago de Cuba  </string>
+    <string name="chichof"> 1954</string>
+    <string name="chichob">Diseñador, caricaturista, pintor y realizador santiaguero graduado en la Academia de Artes Plásticas "José Joaquín Tejada Revilla". En su trayectoria, acumula más de 25 exposiciones personales, participación en unas 30 colectivas y presencia en alrededor de 20 salones internacionales. Es realizador de cartones animados; tiene participaciones en salones provinciales y nacionales de humor gráfico y diseño, con premios en esos ámbitos y una mención internacional.
+</string>
+
+    <string name="mralvarezc">La Habana</string>
+    <string name="mralvarezf"> -</string>
+    <string name="mralvarezb">Licenciada en Periodismo por la Universidad de La Habana. Durante quince años trabajó en la revista Revolución y Cultura, del Ministerio de Cultura, atendiendo la esfera de la música, labor que le permitió profundizar en esta manifestación artística. Desde 1991 se estableció en México DF, y durante años trabajó como editora, correctora de estilo, redactora, fotógrafa o reportera de diversas revistas, así como asesora en varias publicaciones y agencias de prensa.
+
+"\n"Algunos de sus títulos: "\n"-Cubanos en la música (Letras Cubanas, 1993 y Unión, 2016)
+                                     "\n"- Cuba en voz y canto de mujer (EE.UU., 2015).
+
+</string>
+
+    <string name="ralemusc">La Habana </string>
+    <string name="ralemusf"> - </string>
+    <string name="ralemusb">Poeta, actor y narrador multipremiado.
+
+"\n"Algunos de sus títulos:
+                                 "\n"   - El sombrero de mi abuelo (2005)
+                                 "\n"   -Michiringolo (2010)
+                                 "\n"  -Adivinaja (2012)
+
+</string>
+
+    <string name="ehleonc">La Habana </string>
+    <string name="ehleonf"> 1940 </string>
+    <string name="ehleonb"> Narrador, periodista, crítico literario y de danza. En 2001 recibió el Premio Nacional de Edición; en 2007 el galardón Maestro de Juventudes de la Asociación Hermanos Saíz, y la Distinción Félix Elmuza de la Upec, y en 2014 el Premio Nacional de Literatura. Es fundador y director del Centro de Formación Literaria Onelio Jorge Cardoso.
+
+"\n"Algunos de sus títulos:
+                                "\n"     - La guerra tuvo seis nombres (1970)
+                                "\n"    -Los pasos en la hierba
+                                "\n"    -Cuestión de principio (1985)
+
+
+</string>
+
+    <string name="teresameloc">Santiago de Cuba </string>
+    <string name="teresamelof"> - </string>
+    <string name="teresamelob">Poetisa y promotora cultural, ganadora entre otros premios del integral La Rosa Blanca.
+
+"\n"Algunos de sus títulos:
+                                   "\n"  -La sombra protectora
+                                   "\n"  -Soy el amor, soy el verso (compiladora)
+
+</string>
+
+
+
+
+
+    <string name="searchback_path_arrow_head_top">M16.7017297,12.6957157 L24.7043962,4.69304955</string>
+    <string name="searchback_path_arrow_head_bottom">M16.7107986,11.2764828 L24.7221527,19.2878361</string>
+    <string name="searchback_path_circle">M25.39,13.39 A 5.5 5.5 0 1 1 17.61 5.61 A 5.5 5.5 0 1 1 25.39 13.39</string>
+    <string name="searchback_path_stem">M24.7,12.7 C24.70,12.7 31.8173374,19.9066081 31.8173371,19.9066082 C32.7867437,20.7006357 34.4599991,23 37.5,23 C40.54,23 43,20.54 43,17.5 C43,14.46 40.54,12 37.5,12 C34.46,12 33.2173088,12 31.8173371,12 C31.8173374,12 18.8477173,12 18.8477173,12</string>
+    <string name="nosotros">Este año, nuestra aplicación, tal y como fue concebida, continúa siendo dirigida a los lectores, pero también queremos agradecer muy especialmente a los escritores que conforman nuestro catálogo, y que con sus obras, puestas a disposición del público receptor, continúan haciendo de Oriente, una editorial para toda la familia.  \n \n La Editorial Oriente- única perteneciente al Instituto Cubano del Libro  que existe fuera de la capital- se encuentra enclavada en la calle Santa Lucía, de la heroica, rebelde y hospitalaria ciudad de Santiago de Cuba. Su creación estuvo fundamentada por la existencia, en la región oriental del país, de un fuerte movimiento autoral que se conjugó con un potente desarrollo económico, cultural y científico técnico. Es por esto que la producción desde 1971 -año en que publicamos nuestro primer libro- hasta la fecha, se ha caracterizado por abarcar un variado universo temático que va desde el libro infantil hasta el científico técnico. Y esta situación va también a verse reflejada en este catálogo de nuestras publicaciones. Una de las líneas más demandadas por nuestra población, por ejemplo, es la de divulgación, presente en títulos que se agotan muy fácilmente en las librerías de todo nuestro país.
+   Queremos, pues, con esta aplicación, hacer conocer cada uno de los títulos publicados en este último año de trabajo, así como las características más importantes de cada uno de ellos. Datos que pueden resultar útiles para investigadores, técnicos, escritores, en fin, para todo el público lector, para el que trabajamos. \n Para más información puede visitar nuestras páginas webs y también puede seguirnos en facebook o twitter.
+</string>
+    <string name="title_activity_nosotros">Nosotros</string>
+    <string name="nosotros_texto">Este año, nuestra aplicación, tal y como fue concebida, continúa siendo dirigida a los lectores, pero también queremos agradecer muy especialmente a los escritores que conforman nuestro catálogo, y que con sus obras, puestas a disposición del público receptor, continúan haciendo de Oriente, una editorial para toda la familia.
+    "\n""\n"   La Editorial Oriente- única perteneciente al Instituto Cubano del Libro  que existe fuera de la capital- se encuentra enclavada en la calle Santa Lucía, de la heroica, rebelde y hospitalaria ciudad de Santiago de Cuba. Su creación estuvo fundamentada por la existencia, en la región oriental del país, de un fuerte movimiento autoral que se conjugó con un potente desarrollo económico, cultural y científico técnico. Es por esto que la producción desde 1971 -año en que publicamos nuestro primer libro- hasta la fecha, se ha caracterizado por abarcar un variado universo temático que va desde el libro infantil hasta el científico técnico. Y esta situación va también a verse reflejada en este catálogo de nuestras publicaciones. Una de las líneas más demandadas por nuestra población, por ejemplo, es la de divulgación, presente en títulos que se agotan muy fácilmente en las librerías de todo nuestro país.
+    "\n""\n" Queremos, pues, con esta aplicación, hacer conocer cada uno de los títulos publicados en este último año de trabajo, así como las características más importantes de cada uno de ellos. Datos que pueden resultar útiles para investigadores, técnicos, escritores, en fin, para todo el público lector, para el que trabajamos.
+</string>
+    <string name="creditos"> Esta App fue realizada por "\n""\n" Editorial Oriente y "\n""\n" Software - Bella Lógica. </string>
+    <string name="creditos2">  Contáctenos en "\n""\n" yudeelito@gmail.com "\n""\n" yudel1987@nauta.cu </string>
+    <string name="maildir">yudel1987@nauta.cu</string>
+    <string name="mailpass">Yolanda*17</string>
+    <string name="maileditorial">editorialoriente.scu@gmail.com</string>
+    <string name="mailwordpress">mini928xizu@post.wordpress.com</string>
+</resources>

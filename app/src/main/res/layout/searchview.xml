@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_height="match_parent" android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<androidx.appcompat.widget.SearchView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    app:searchIcon="@drawable/ibuscar_filtro"
+    app:searchHintIcon="@drawable/ibuscar_filtro"
+    app:closeIcon="@drawable/img_cerrar"
+    android:commitIcon="@drawable/ibuscar_filtro"
+    android:iconifiedByDefault="true"
+    android:elevation="2dp"
+    android:id="@+id/search_titulo"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+  android:background="@color/colornegro_50"
+    android:layout_marginTop="20dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+    </RelativeLayout>

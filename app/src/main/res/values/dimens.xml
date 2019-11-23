@@ -1,0 +1,69 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_bottom_info_height">88dp</dimen>
+    <dimen name="card_extra_height">8dp</dimen>
+    <dimen name="app_bar_height">320dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="design_fab_elevation">6dp</dimen>
+    <dimen name="design_fab_translation_z_pressed">6dp</dimen>
+    <dimen name="design_fab_image_size">24dp</dimen>
+    <dimen name="design_fab_size_normal">56dp</dimen>
+    <dimen name="design_fab_size_mini">40dp</dimen>
+    <dimen name="design_fab_border_width">0.5dp</dimen>
+
+
+    <!-- Common. -->
+    <dimen name="searchback_image_width">48dp</dimen>
+    <dimen name="searchback_image_height">24dp</dimen>
+    <integer name="searchback_viewport_width">48</integer>
+    <integer name="searchback_viewport_height">24</integer>
+    <integer name="searchback_stroke_width">2</integer>
+    <color name="searchback_stroke_color">#fff</color>
+
+    <!-- Circle. <string name="searchback_path_circle">M25.39,13.39 A 5.5 5.5 0 1 1 17.61 5.61 A 5.5 5.5 0 1 1 25.39 13.39</string> -->
+
+    <item name="searchback_circle_search_trim_end" format="float" type="fraction">1</item>
+    <item name="searchback_circle_back_trim_end" format="float" type="fraction">0</item>
+    <integer name="searchback_show_hide_circle_duration">250</integer>
+    <integer name="searchback_show_circle_delay">300</integer>
+
+    <!-- Stem. <string name="searchback_path_stem">M24.7,12.7 C24.70,12.7 31.8173374,19.9066081 31.8173371,19.9066082 C32.7867437,20.7006357 34.4599991,23 37.5,23 C40.54,23 43,20.54 43,17.5 C43,14.46 40.54,12 37.5,12 C34.46,12 33.2173088,12 31.8173371,12 C31.8173374,12 18.8477173,12 18.8477173,12</string>-->
+
+    <item name="searchback_stem_search_trim_start" format="float" type="fraction">0</item>
+    <item name="searchback_stem_search_trim_end" format="float" type="fraction">0.185</item>
+    <item name="searchback_stem_back_trim_start" format="float" type="fraction">0.75</item>
+    <item name="searchback_stem_back_trim_end" format="float" type="fraction">1</item>
+    <!-- Use different timings to trim the ends to produce the 'stretching out' effect. -->
+    <integer name="searchback_stem_trim_longer_duration">600</integer>
+    <integer name="searchback_stem_trim_shorter_duration">450</integer>
+
+    <!-- Arrow head.
+        <string name="searchback_path_arrow_head_top">M16.7017297,12.6957157 L24.7043962,4.69304955</string>
+        <string name="searchback_path_arrow_head_bottom">M16.7107986,11.2764828 L24.7221527,19.2878361</string> -->
+    <item name="searchback_arrow_head_search_trim_end" format="float" type="fraction">0</item>
+    <item name="searchback_arrow_head_back_trim_end" format="float" type="fraction">1</item>
+    <integer name="searchback_show_arrow_head_delay">350</integer>
+    <integer name="searchback_show_hide_arrow_head_duration">250</integer>
+
+
+    <dimen name="pager_padding">28dp</dimen>
+    <dimen name="dragger_textsize_autor">15sp</dimen>
+    <dimen name="dragger_textsize_sinopsis">14sp</dimen>
+    <dimen name="avatar_autor">40dp</dimen>
+    <dimen name="textsize_nosotros">16sp</dimen>
+    <dimen name="item_libro">96dp</dimen>
+
+    <dimen name="perfil_marginTop">40dp</dimen>
+    <dimen name="perfil_fotH">136dp</dimen>
+    <dimen name="perfil_separacioncard">20dp</dimen>
+    <dimen name="perfil_txsize">16sp</dimen>
+    <dimen name="perfil_margenes">24dp</dimen>
+    <item type="fraction" name="factor_portadas">60%</item>
+    <integer name="columnasautor">1</integer>
+    <bool name="horizontal">false</bool>
+
+    <dimen name="margen_titulo">4dp</dimen>
+</resources>

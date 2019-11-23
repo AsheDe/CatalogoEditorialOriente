@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <array name="biografias">
+        <item>@string/marelisproenzab</item>
+        <item>@string/abreub</item>
+        <item>@string/luisb</item>
+        <item>@string/antoniolb</item>
+        <item>@string/albertob</item>
+        <item>@string/eldab</item>
+        <item>@string/llodyb</item>
+        <item>@string/aliciab</item>
+         <item>@string/manetb</item>
+        <item>@string/pineaub</item>
+        <item>@string/suarezb</item>
+        <item>@string/eduardb</item>
+        <item>@string/aidab</item>
+        <item>@string/felipeb</item>
+        <item>@string/ramab</item>
+        <item>@string/angelb</item>
+        <item>@string/mariob</item>
+        <item>@string/silviab</item>
+        <item>@string/ilianab</item>
+        <item>@string/toscab</item>
+        <item>@string/juanb</item>
+        <item>@string/olivab</item>
+        <item>@string/amintab</item>
+        <item>@string/joseb</item>
+        <item>@string/legrab</item>
+        <item>@string/blasb</item>
+        <item>@string/emeriob</item>
+        <item>@string/eracliob</item>
+        <item>@string/jifleitesb</item>
+        <item>@string/eugeniob</item>
+        <item>@string/eulaliab</item>
+        <item>@string/nersysb</item>
+        <item>@string/riquenesb</item>
+        <item>@string/marilub</item>
+        <item>@string/dickb</item>
+        <item>@string/esterb</item>
+        <item>@string/carlosb</item>
+    </array>
+
+    <array name="biografias_2019">
+        <item>@string/esquivelb</item>
+        <item>@string/anselmab </item>
+        <item>@string/viderab </item>
+        <item>@string/pavonb </item>
+        <item>@string/freib</item>
+        <item>@string/micheb </item>
+        <item>@string/marquetib </item>
+        <item>@string/borrotob</item>
+        <item>@string/mondelob </item>
+        <item>@string/emiliob </item>
+        <item>@string/mayrarosab </item>
+        <item>@string/mayrarosab </item>
+        <item>@string/linguisticab </item>
+        <item>@string/linguisticab</item>
+        <item>@string/lemusb</item>
+        <item>@string/herasb </item>
+        <item>@string/tmelob </item>
+        <item>@string/pjgutierreb </item>
+        <item>@string/olgapb </item>
+        <item>@string/olgapb </item>
+        <item>@string/muletb</item>
+        <item>@string/rhodelinb </item>
+        <item>@string/madlumb </item>
+        <item>@string/alsanchezb </item>
+        <item>@string/alfonsob</item>
+        <item>@string/mildreb </item>
+        <item>@string/lorenzob</item>
+        <item>@string/mantonietab </item>
+        <item>@string/trabab </item>
+        <item>@string/rubenb</item>
+        <item>@string/mrojasb </item>
+        <item>@string/scushionb </item>
+        <item>@string/riquenesb</item>
+        <item>@string/mterryb </item>
+        <item>@string/lherrerob</item>
+        <item>@string/rhzellb </item>
+        <item>@string/jbquintanab </item>
+        <item>@string/mgmarrerob </item>
+        <item>@string/aaugustb</item>
+        <item>@string/spachecob </item>
+        <item>@string/restradab </item>
+        <item>@string/restradab </item>
+        <item>@string/zeilarobertb </item>
+        <item>@string/afonsecab </item>
+        <item>@string/mruizb</item>
+        <item>@string/naitob </item>
+        <item>@string/dayronserpab </item>
+
+
+    </array>
+
+    <array name="todas_biografias">
+        <item>@string/marelisproenzab</item>
+        <item>@string/abreub</item>
+        <item>@string/luisb</item>
+        <item>@string/antoniolb</item>
+        <item>@string/albertob</item>
+        <item>@string/eldab</item>
+        <item>@string/llodyb</item>
+        <item>@string/aliciab</item>
+        <item>@string/manetb</item>
+        <item>@string/pineaub</item>
+        <item>@string/suarezb</item>
+        <item>@string/eduardb</item>
+        <item>@string/aidab</item>
+        <item>@string/felipeb</item>
+        <item>@string/ramab</item>
+        <item>@string/angelb</item>
+        <item>@string/mariob</item>
+        <item>@string/silviab</item>
+        <item>@string/ilianab</item>
+        <item>@string/toscab</item>
+        <item>@string/juanb</item>
+        <item>@string/olivab</item>
+        <item>@string/amintab</item>
+        <item>@string/joseb</item>
+        <item>@string/legrab</item>
+        <item>@string/blasb</item>
+        <item>@string/emeriob</item>
+        <item>@string/eracliob</item>
+        <item>@string/jifleitesb</item>
+        <item>@string/eugeniob</item>
+        <item>@string/eulaliab</item>
+        <item>@string/nersysb</item>
+        <item>@string/riquenesb</item>
+        <item>@string/marilub</item>
+        <item>@string/dickb</item>
+        <item>@string/esterb</item>
+        <item>@string/carlosb</item>
+        <item>@string/esquivelb</item>
+        <item>@string/anselmab </item>
+        <item>@string/viderab </item>
+        <item>@string/pavonb </item>
+        <item>@string/freib</item>
+        <item>@string/micheb </item>
+        <item>@string/naitob </item>
+        <item>@string/marquetib </item>
+        <item>@string/borrotob</item>
+        <item>@string/mondelob </item>
+        <item>@string/emiliob </item>
+        <item>@string/mayrarosab </item>
+        <item>@string/lemusb</item>
+        <item>@string/herasb </item>
+        <item>@string/tmelob </item>
+        <item>@string/pjgutierreb </item>
+        <item>@string/olgapb </item>
+        <item>@string/muletb</item>
+        <item>@string/rhodelinb </item>
+        <item>@string/madlumb </item>
+        <item>@string/alsanchezb </item>
+        <item>@string/alfonsob</item>
+        <item>@string/mildreb </item>
+        <item>@string/mantonietab </item>
+        <item>@string/trabab </item>
+        <item>@string/rubenb</item>
+        <item>@string/mrojasb </item>
+        <item>@string/scushionb </item>
+        <item>@string/riquenesb</item>
+        <item>@string/mterryb </item>
+        <item>@string/lherrerob</item>
+        <item>@string/rhzellb </item>
+        <item>@string/jbquintanab </item>
+        <item>@string/mgmarrerob </item>
+        <item>@string/aaugustb</item>
+        <item>@string/spachecob </item>
+        <item>@string/restradab </item>
+        <item>@string/afonsecab </item>
+        <item>@string/mruizb</item>
+
+    </array>
+
+
+    <array name="ciudades">
+        <item>@string/marelisproenzac</item>
+        <item>@string/abreuc</item>
+        <item>@string/luisc</item>
+        <item>@string/antoniolc</item>
+        <item>@string/albertoc</item>
+        <item>@string/eldac</item>
+        <item>@string/llodyc</item>
+        <item>@string/aliciac</item>
+        <item>@string/manetc</item>
+        <item>@string/pineauc</item>
+        <item>@string/suarezc</item>
+        <item>@string/eduardc</item>
+        <item>@string/aidac</item>
+        <item>@string/felipec</item>
+        <item>@string/ramac</item>
+        <item>@string/angelc</item>
+        <item>@string/marioc</item>
+        <item>@string/silviac</item>
+        <item>@string/ilianac</item>
+        <item>@string/toscac</item>
+        <item>@string/juanc</item>
+        <item>@string/olivac</item>
+        <item>@string/amintac</item>
+        <item>@string/josec</item>
+        <item>@string/legrac</item>
+        <item>@string/blasc</item>
+        <item>@string/emerioc</item>
+        <item>@string/eraclioc</item>
+        <item>@string/jifleitesc</item>
+        <item>@string/eugenioc</item>
+        <item>@string/eulaliac</item>
+        <item>@string/nersysc</item>
+        <item>@string/riquenesc</item>
+        <item>@string/mariluc</item>
+        <item>@string/dickc</item>
+        <item>@string/esterc</item>
+        <item>@string/carlosc</item>
+    </array>
+
+    <array name="ciudades_2019">
+        <item>@string/esquivelc</item>
+        <item>@string/anselmac</item>
+        <item>@string/viderac</item>
+        <item>@string/pavonc</item>
+        <item>@string/freic</item>
+        <item>@string/michec</item>
+        <item>@string/marquetic</item>
+        <item>@string/borrotoc</item>
+        <item>@string/mondeloc</item>
+        <item>@string/emilioc</item>
+        <item>@string/mayrarosac</item>
+        <item>@string/mayrarosac</item>
+        <item>@string/linguisticac</item>
+        <item>@string/linguisticac</item>
+        <item>@string/lemusc</item>
+        <item>@string/herasc</item>
+        <item>@string/tmeloc</item>
+        <item>@string/pjgutierrec</item>
+        <item>@string/olgapc</item>
+        <item>@string/olgapc</item>
+        <item>@string/muletc</item>
+        <item>@string/rhodelinc</item>
+        <item>@string/madlumc</item>
+        <item>@string/alsanchezc</item>
+        <item>@string/alfonsoc</item>
+        <item>@string/mildrec</item>
+        <item>@string/lorenzoc</item>
+        <item>@string/mantonietac</item>
+        <item>@string/trabac</item>
+        <item>@string/rubenc</item>
+        <item>@string/mrojasc</item>
+        <item>@string/scushionc</item>
+        <item>@string/riquenesc</item>
+        <item>@string/mterryc</item>
+        <item>@string/lherreroc</item>
+        <item>@string/rhzellc</item>
+        <item>@string/jbquintanac</item>
+        <item>@string/mgmarreroc</item>
+        <item>@string/aaugustc</item>
+        <item>@string/spachecoc</item>
+        <item>@string/restradac</item>
+        <item>@string/restradac</item>
+        <item>@string/zeilarobertc</item>
+        <item>@string/afonsecac</item>
+        <item>@string/mruizc</item>
+        <item>@string/naitoc</item>
+        <item>@string/dayronserpac</item>
+
+    </array>
+
+    <array name="ciudades_todas">
+        <item>@string/marelisproenzac</item>
+        <item>@string/abreuc</item>
+        <item>@string/luisc</item>
+        <item>@string/antoniolc</item>
+        <item>@string/albertoc</item>
+        <item>@string/eldac</item>
+        <item>@string/llodyc</item>
+        <item>@string/aliciac</item>
+        <item>@string/manetc</item>
+        <item>@string/pineauc</item>
+        <item>@string/suarezc</item>
+        <item>@string/eduardc</item>
+        <item>@string/aidac</item>
+        <item>@string/felipec</item>
+        <item>@string/ramac</item>
+        <item>@string/angelc</item>
+        <item>@string/marioc</item>
+        <item>@string/silviac</item>
+        <item>@string/ilianac</item>
+        <item>@string/toscac</item>
+        <item>@string/juanc</item>
+        <item>@string/olivac</item>
+        <item>@string/amintac</item>
+        <item>@string/josec</item>
+        <item>@string/legrac</item>
+        <item>@string/blasc</item>
+        <item>@string/emerioc</item>
+        <item>@string/eraclioc</item>
+        <item>@string/jifleitesc</item>
+        <item>@string/eugenioc</item>
+        <item>@string/eulaliac</item>
+        <item>@string/nersysc</item>
+        <item>@string/riquenesc</item>
+        <item>@string/mariluc</item>
+        <item>@string/dickc</item>
+        <item>@string/esterc</item>
+        <item>@string/carlosc</item>
+        <item>@string/esquivelc</item>
+        <item>@string/anselmac</item>
+        <item>@string/viderac</item>
+        <item>@string/pavonc</item>
+        <item>@string/freic</item>
+        <item>@string/michec</item>
+        <item>@string/naitoc</item>
+        <item>@string/marquetic</item>
+        <item>@string/borrotoc</item>
+        <item>@string/mondeloc</item>
+        <item>@string/emilioc</item>
+        <item>@string/mayrarosac</item>
+        <item>@string/lemusc</item>
+        <item>@string/herasc</item>
+        <item>@string/tmeloc</item>
+        <item>@string/pjgutierrec</item>
+        <item>@string/olgapc </item>
+        <item>@string/muletc</item>
+        <item>@string/rhodelinc</item>
+        <item>@string/madlumc</item>
+        <item>@string/alsanchezc</item>
+        <item>@string/alfonsoc</item>
+        <item>@string/mildrec</item>
+        <item>@string/mantonietac</item>
+        <item>@string/trabac</item>
+        <item>@string/rubenc</item>
+        <item>@string/mrojasc</item>
+        <item>@string/scushionc</item>
+        <item>@string/riquenesf</item>
+        <item>@string/mterryc</item>
+        <item>@string/lherreroc</item>
+        <item>@string/rhzellc</item>
+        <item>@string/jbquintanac</item>
+        <item>@string/mgmarreroc</item>
+        <item>@string/aaugustc</item>
+        <item>@string/spachecoc</item>
+        <item>@string/restradac</item>
+        <item>@string/afonsecac</item>
+        <item>@string/mruizc</item>
+    </array>
+
+    <array name="fechas">
+        <item>@string/marelisproenzaf</item>
+        <item>@string/abreuf</item>
+        <item>@string/luisf</item>
+        <item>@string/antoniolf</item>
+        <item>@string/albertof</item>
+        <item>@string/eldaf</item>
+        <item>@string/llodyf</item>
+        <item>@string/aliciaf</item>
+        <item>@string/manetf</item>
+        <item>@string/pineauf</item>
+        <item>@string/suarezf</item>
+        <item>@string/eduardf</item>
+        <item>@string/aidaf</item>
+        <item>@string/felipef</item>
+        <item>@string/ramaf</item>
+        <item>@string/angelf</item>
+        <item>@string/mariof</item>
+        <item>@string/silviaf</item>
+        <item>@string/ilianaf</item>
+        <item>@string/toscaf</item>
+        <item>@string/juanf</item>
+        <item>@string/olivaf</item>
+        <item>@string/amintaf</item>
+        <item>@string/josef</item>
+        <item>@string/legraf</item>
+        <item>@string/blasf</item>
+        <item>@string/emeriof</item>
+        <item>@string/eracliof</item>
+        <item>@string/jifleitesf</item>
+        <item>@string/eugeniof</item>
+        <item>@string/eulaliaf</item>
+        <item>@string/nersysf</item>
+        <item>@string/riquenesf</item>
+        <item>@string/mariluf</item>
+        <item>@string/dickf</item>
+        <item>@string/esterf</item>
+        <item>@string/carlosf</item>
+    </array>
+
+    <array name="fechas_2019">
+        <item>@string/esquivelf</item>
+        <item>@string/anselmaf</item>
+        <item>@string/videraf</item>
+        <item>@string/pavonf</item>
+        <item>@string/freif</item>
+        <item>@string/michef</item>
+        <item>@string/marquetif</item>
+        <item>@string/borrotof</item>
+        <item>@string/mondelof</item>
+        <item>@string/emiliof</item>
+        <item>@string/mayrarosaf</item>
+        <item>@string/mayrarosaf</item>
+        <item>@string/linguisticaf</item>
+        <item>@string/linguisticaf</item>
+        <item>@string/lemusf</item>
+        <item>@string/herasf</item>
+        <item>@string/tmelof</item>
+        <item>@string/pjgutierref</item>
+        <item>@string/olgapf</item>
+        <item>@string/olgapf</item>
+        <item>@string/muletf</item>
+        <item>@string/rhodelinf</item>
+        <item>@string/madlumf</item>
+        <item>@string/alsanchezf</item>
+        <item>@string/alfonsof</item>
+        <item>@string/mildref</item>
+        <item>@string/lorenzof</item>
+        <item>@string/mantonietaf</item>
+        <item>@string/trabaf</item>
+        <item>@string/rubenf</item>
+        <item>@string/mrojasf</item>
+        <item>@string/scushionf</item>
+        <item>@string/riquenesf</item>
+        <item>@string/mterryf</item>
+        <item>@string/lherrerof</item>
+        <item>@string/rhzellf</item>
+        <item>@string/jbquintanaf</item>
+        <item>@string/mgmarrerof</item>
+        <item>@string/aaugustf</item>
+        <item>@string/spachecof</item>
+        <item>@string/restradaf</item>
+        <item>@string/restradaf</item>
+        <item>@string/zeilarobertf</item>
+        <item>@string/afonsecaf</item>
+        <item>@string/mruizf</item>
+        <item>@string/naitof</item>
+        <item>@string/dayronserpaf</item>
+
+    </array>
+
+
+
+    <array name="fechas_todas">
+        <item>@string/marelisproenzaf</item>
+        <item>@string/abreuf</item>
+        <item>@string/luisf</item>
+        <item>@string/antoniolf</item>
+        <item>@string/albertof</item>
+        <item>@string/eldaf</item>
+        <item>@string/llodyf</item>
+        <item>@string/aliciaf</item>
+        <item>@string/manetf</item>
+        <item>@string/pineauf</item>
+        <item>@string/suarezf</item>
+        <item>@string/eduardf</item>
+        <item>@string/aidaf</item>
+        <item>@string/felipef</item>
+        <item>@string/ramaf</item>
+        <item>@string/angelf</item>
+        <item>@string/mariof</item>
+        <item>@string/silviaf</item>
+        <item>@string/ilianaf</item>
+        <item>@string/toscaf</item>
+        <item>@string/juanf</item>
+        <item>@string/olivaf</item>
+        <item>@string/amintaf</item>
+        <item>@string/josef</item>
+        <item>@string/legraf</item>
+        <item>@string/blasf</item>
+        <item>@string/emeriof</item>
+        <item>@string/eracliof</item>
+        <item>@string/jifleitesf</item>
+        <item>@string/eugeniof</item>
+        <item>@string/eulaliaf</item>
+        <item>@string/nersysf</item>
+        <item>@string/riquenesf</item>
+        <item>@string/mariluf</item>
+        <item>@string/dickf</item>
+        <item>@string/esterf</item>
+        <item>@string/carlosf</item>
+        <item>@string/esquivelf</item>
+        <item>@string/anselmaf</item>
+        <item>@string/videraf</item>
+        <item>@string/pavonf</item>
+        <item>@string/freif</item>
+        <item>@string/michef</item>
+        <item>@string/naitof</item>
+        <item>@string/marquetif</item>
+        <item>@string/borrotof</item>
+        <item>@string/mondelof</item>
+        <item>@string/emiliof</item>
+        <item>@string/mayrarosaf</item>
+        <item>@string/lemusf</item>
+        <item>@string/herasf</item>
+        <item>@string/tmelof</item>
+        <item>@string/pjgutierref</item>
+        <item>@string/olgapf </item>
+        <item>@string/muletf</item>
+        <item>@string/rhodelinf</item>
+        <item>@string/madlumf</item>
+        <item>@string/alsanchezf</item>
+        <item>@string/alfonsof</item>
+        <item>@string/mildref</item>
+        <item>@string/mantonietaf</item>
+        <item>@string/trabaf</item>
+        <item>@string/rubenf</item>
+        <item>@string/mrojasf</item>
+        <item>@string/scushionf</item>
+        <item>@string/riquenesf</item>
+        <item>@string/mterryf</item>
+        <item>@string/lherrerof</item>
+        <item>@string/rhzellf</item>
+        <item>@string/jbquintanaf</item>
+        <item>@string/mgmarrerof</item>
+        <item>@string/aaugustf</item>
+        <item>@string/spachecof</item>
+        <item>@string/restradaf</item>
+        <item>@string/afonsecaf</item>
+        <item>@string/mruizf</item>
+    </array>
+
+
+
+</resources>

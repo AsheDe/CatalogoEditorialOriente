@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/buscar"
+        android:title="BUSCAR"
+        android:orderInCategory="100"
+        app:showAsAction="collapseActionView|always"
+        android:icon="@drawable/ic_search"
+        android:iconTint="@color/colorBlanco"
+        app:actionViewClass="android.widget.SearchView"/>
+    <item
+        android:id="@+id/menu_nosotros"
+        app:showAsAction="never"
+        android:title="Nosotros"
+        android:icon="@drawable/ic_editorial"
+        />
+    <item
+        android:id="@+id/menu_autores"
+        app:showAsAction="never"
+        android:title="Autores"
+        android:icon="@drawable/ic_people"
+        />
+    <item
+        android:id="@+id/menu_favoritos"
+        app:showAsAction="never"
+        android:title="Favoritos"
+        android:icon="@drawable/megusta"
+        />
+    <item
+        android:id="@+id/menu_creditos"
+        app:showAsAction="never"
+        android:title="Créditos"
+        android:icon="@drawable/ic_copyright"
+        />
+</menu>

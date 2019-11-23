@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colornegro_900"
+        android:id="@+id/toolbar"
+        android:elevation="6dp"
+        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?attr/actionBarSize"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_marginTop="60dp"
+            android:text="@string/creditos"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:id="@+id/textcreditos"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:layout_margin="8dp"
+                android:text="@string/creditos2"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:id="@+id/textcreditos2"
+                android:textAppearance="@android:style/TextAppearance.Large"
+                android:textColor="@color/colorAccent"
+                />
+        </LinearLayout>
+
+    </ScrollView>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:src="@android:drawable/ic_dialog_email"
+        android:id="@+id/mail_yudel"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="16dp"
+        android:layout_marginRight="16dp"
+        app:rippleColor="@color/colornegro_300"
+
+        />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ParticleView">
+        <attr name="pv_host_text" format="string"></attr>
+        <attr name="pv_host_text_size" format="dimension"></attr>
+        <attr name="pv_particle_text" format="string"></attr>
+        <attr name="pv_particle_text_size" format="dimension"></attr>
+        <attr name="pv_text_color" format="color"></attr>
+        <attr name="pv_background_color" format="color"></attr>
+        <attr name="pv_text_anim_time" format="integer"></attr>
+        <attr name="pv_spread_anim_time" format="integer"></attr>
+        <attr name="pv_host_text_anim_time" format="integer"></attr>
+    </declare-styleable>
+    <declare-styleable name="app">
+        <attr name="bottomDragVisibleHeight" format="dimension" />
+        <attr name="bototmExtraIndicatorHeight" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="ExpandableButtonView">
+        <attr name="button_width" format="dimension"/>
+        <attr name="button_height" format="dimension"/>
+        <attr name="button_icon" format="reference"/>
+        <attr name="button_color" format="color"/>
+        <attr name="toolbar_color" format="color"/>
+        <attr name="duration" format="integer"/>
+        <attr name="reverse_duration" format="integer"/>
+    </declare-styleable>
+    <declare-styleable name="RevealFAB">
+        <attr name="fab_color" format="integer" />
+        <attr name="fab_icon" format="integer" />
+        <attr name="reveal_color" format="integer" />
+    </declare-styleable>
+</resources>

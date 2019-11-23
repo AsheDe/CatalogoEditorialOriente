@@ -1,0 +1,20 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="pager_padding">96dp</dimen>
+    <dimen name="dragger_textsize_autor">24sp</dimen>
+    <dimen name="dragger_textsize_sinopsis">22sp</dimen>
+    <dimen name="avatar_autor">64dp</dimen>
+    <dimen name="textsize_nosotros">24sp</dimen>
+    <dimen name="item_libro">120dp</dimen>
+
+    <dimen name="perfil_marginTop">96dp</dimen>
+    <dimen name="perfil_fotH">260dp</dimen>
+    <dimen name="perfil_separacioncard">40dp</dimen>
+    <dimen name="perfil_txsize">24sp</dimen>
+    <dimen name="perfil_margenes">56dp</dimen>
+
+    <integer name="columnasautor">2</integer>
+</resources>

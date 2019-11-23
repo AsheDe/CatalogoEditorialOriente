@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cu.editorialoriente.catalogo.Foto_Libro"
+    android:fitsSystemWindows="true"
+   >
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:elevation="6dp"
+        android:background="@drawable/backgroud_barra_detalles"
+        android:fitsSystemWindows="true"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/iatras"
+            android:id="@+id/back"
+            android:layout_marginLeft="16dp"
+            android:fitsSystemWindows="true"
+            />
+        </androidx.appcompat.widget.Toolbar>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@mipmap/aprendaamaquillarsa"
+        android:id="@+id/libro_completo"
+        android:scaleType="fitXY"
+        android:fitsSystemWindows="true"
+        android:transitionName="libro_portada"
+        />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
